@@ -1,2 +1,2 @@
 # uchicago-git-tutorial
-Terence Leung terenceleung
+Terence Leung
